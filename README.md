@@ -1,6 +1,6 @@
 # 🚀 TechNews Today - Desafio HTML & CSS
 
-Página de notícias de tecnologia construída com HTML5 e CSS3[cite: 2], desenvolvida para o repositório **Desafio10_HTM-CSS**.
+Página de notícias de tecnologia construída com HTML5 e CSS3, desenvolvida para o repositório **Desafio10_HTM-CSS**.
 
 
 
